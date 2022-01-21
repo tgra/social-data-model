@@ -6,9 +6,9 @@ Social Data Model
 
 The documentation here describes a conceptual data model that can be used to describe social phenomena and includes types of social activities and relationships that involve persons.
 
-The data model facilitates the description of events in a person’s life. The events provide context to relationships that the person has to other people, documents, groups, organisations as well as the events and their locations.
+People are at the centre of the data model and the the data model includes representations of personal attributes such as name and gender. The data model can be used to describe events in a person's life from birth to death. The relationships a person has to other people, documents, groups, organisations as well as the events and their locations and described in the context of events.
 
-For an event, the event is described as being an instance of a type of activity, and the participants of the event optionally have a role associated with them, where the role is relevant to the type of activity. The event has a time and location associated with it.
+An event is described as being an instance of a type of activity, and the event participants optionally have a role associated with them, where the role corresponds to the type of activity. An event has a time and location associated with it.
 
 ## Contact 
 
