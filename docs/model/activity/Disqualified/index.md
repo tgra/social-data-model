@@ -1,5 +1,5 @@
 ---
-title: "Activity: Birth"
+title: "Activity: Disqualified"
 up_href: "/model/activity/"
 up_label: Activities
 ---
@@ -9,6 +9,8 @@ up_label: Activities
 ## Label
 
 ### English
-Birth
+Disqualified
 
 
+
+### Definition 

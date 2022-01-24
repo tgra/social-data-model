@@ -1,5 +1,5 @@
 ---
-title: "Activity: Birth"
+title: "Activity: MembershipOfProfessionalBody"
 up_href: "/model/activity/"
 up_label: Activities
 ---
@@ -9,6 +9,6 @@ up_label: Activities
 ## Label
 
 ### English
-Birth
+MembershipOfProfessionalBody
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Activity: Ennoblement"
+title: "Activity: Medicalprofession"
 up_href: "/model/activity/"
 up_label: Activities
 ---
@@ -9,9 +9,9 @@ up_label: Activities
 ## Label
 
 ### English
-Ennoblement
+Medicalprofession
 
 
 
 ### Definition 
-The activity of a person being given a title of nobility.
+A professional role in the field of medicine.

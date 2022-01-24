@@ -1,5 +1,5 @@
 ---
-title: "Activity: Birth"
+title: "Activity: Promotion_to_degree"
 up_href: "/model/activity/"
 up_label: Activities
 ---
@@ -9,6 +9,6 @@ up_label: Activities
 ## Label
 
 ### English
-Birth
+Promotion_to_degree
 
 
