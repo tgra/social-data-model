@@ -10,6 +10,14 @@ People are at the centre of the data model and the the data model includes repre
 
 An event is described as being an instance of a type of activity, and the event participants optionally have a role associated with them, where the role corresponds to the type of activity. An event has a time and location associated with it.
 
+
+## Model Components
+
+- Person
+- [Activity](./activity/)
+- [Role](./role/)
+- [Relationship](./relationship)
+
 ## Contact 
 
 Please contact Tanya Gray, Research Software Engineer, Centre for Digital Scholarship, University of Oxford, tanya.gray@humanities.ox.ac.uk. if you would like to discuss any aspect of this work.
