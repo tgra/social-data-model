@@ -1,0 +1,19 @@
+---
+title: "givesTo"
+up_href: "/model/"
+up_label: Model
+---
+
+[TOC]
+
+## Label
+
+### English
+givesTo
+
+
+## Definition
+
+
+
+    
