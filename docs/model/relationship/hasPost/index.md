@@ -1,10 +1,8 @@
 ---
 title: "hasPost"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > hasPost
 
 ## Label
 

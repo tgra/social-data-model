@@ -1,10 +1,8 @@
 ---
 title: "headOf"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > headOf
 
 ## Label
 

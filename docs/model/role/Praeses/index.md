@@ -1,10 +1,8 @@
 ---
 title: "Praeses"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Praeses
 
 ## Label
 

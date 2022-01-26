@@ -1,10 +1,8 @@
 ---
 title: "Host"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Host
 
 ## Label
 

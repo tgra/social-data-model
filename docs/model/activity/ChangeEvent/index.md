@@ -1,10 +1,8 @@
 ---
 title: "ChangeEvent"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > ChangeEvent
 
 ## Label
 

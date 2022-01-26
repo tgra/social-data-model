@@ -1,10 +1,8 @@
 ---
 title: "Banishment"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Banishment
 
 ## Label
 

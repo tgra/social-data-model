@@ -1,10 +1,8 @@
 ---
 title: "Patronage"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Patronage
 
 ## Label
 

@@ -1,10 +1,8 @@
 ---
 title: "Reign"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Reign
 
 ## Label
 

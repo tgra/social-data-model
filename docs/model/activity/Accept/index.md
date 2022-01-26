@@ -1,10 +1,8 @@
 ---
 title: "Accept"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Accept
 
 ## Label
 

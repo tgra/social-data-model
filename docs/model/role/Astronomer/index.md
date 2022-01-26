@@ -1,10 +1,8 @@
 ---
 title: "Astronomer"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Astronomer
 
 ## Label
 

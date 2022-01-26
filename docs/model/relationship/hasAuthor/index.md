@@ -1,10 +1,8 @@
 ---
 title: "hasAuthor"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > hasAuthor
 
 ## Label
 

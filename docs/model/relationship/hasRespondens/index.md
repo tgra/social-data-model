@@ -1,10 +1,8 @@
 ---
 title: "hasRespondens"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > hasRespondens
 
 ## Label
 

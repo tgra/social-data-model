@@ -1,10 +1,8 @@
 ---
 title: "Master"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Master
 
 ## Label
 

@@ -1,10 +1,8 @@
 ---
 title: "hasGodmother"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > hasGodmother
 
 ## Label
 

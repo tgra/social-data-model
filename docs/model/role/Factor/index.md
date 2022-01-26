@@ -1,10 +1,8 @@
 ---
 title: "Factor"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Factor
 
 ## Label
 

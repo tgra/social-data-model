@@ -1,10 +1,8 @@
 ---
 title: "Degree"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Degree
 
 ## Label
 

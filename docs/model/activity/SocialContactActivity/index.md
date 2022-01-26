@@ -1,10 +1,8 @@
 ---
 title: "SocialContactActivity"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > SocialContactActivity
 
 ## Label
 

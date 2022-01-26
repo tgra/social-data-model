@@ -1,10 +1,8 @@
 ---
 title: "DedicateeOf"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > DedicateeOf
 
 ## Label
 

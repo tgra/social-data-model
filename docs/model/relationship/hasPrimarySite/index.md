@@ -1,10 +1,8 @@
 ---
 title: "hasPrimarySite"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > hasPrimarySite
 
 ## Label
 

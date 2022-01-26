@@ -1,10 +1,8 @@
 ---
 title: "Replace"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Replace
 
 ## Label
 

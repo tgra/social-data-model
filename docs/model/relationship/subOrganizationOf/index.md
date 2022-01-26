@@ -1,10 +1,8 @@
 ---
 title: "subOrganizationOf"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > subOrganizationOf
 
 ## Label
 

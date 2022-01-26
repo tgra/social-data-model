@@ -1,10 +1,8 @@
 ---
 title: "ConfirmationCandidate"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > ConfirmationCandidate
 
 ## Label
 

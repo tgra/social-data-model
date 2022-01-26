@@ -1,10 +1,8 @@
 ---
 title: "unitOf"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > unitOf
 
 ## Label
 

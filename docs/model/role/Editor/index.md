@@ -1,10 +1,8 @@
 ---
 title: "Editor"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Editor
 
 ## Label
 

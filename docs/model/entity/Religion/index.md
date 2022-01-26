@@ -1,10 +1,8 @@
 ---
 title: "Religion"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Religion
 
 ## Label
 

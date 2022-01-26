@@ -1,10 +1,8 @@
 ---
 title: "BankruptedPerson"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > BankruptedPerson
 
 ## Label
 

@@ -1,10 +1,8 @@
 ---
 title: "Contribute"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Contribute
 
 ## Label
 

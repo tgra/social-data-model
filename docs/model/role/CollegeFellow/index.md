@@ -1,10 +1,8 @@
 ---
 title: "CollegeFellow"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > CollegeFellow
 
 ## Label
 

@@ -1,10 +1,8 @@
 ---
 title: "contributorOf"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > contributorOf
 
 ## Label
 

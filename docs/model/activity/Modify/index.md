@@ -1,10 +1,8 @@
 ---
 title: "Modify"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Modify
 
 ## Label
 

@@ -1,10 +1,8 @@
 ---
 title: "hasMember"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > hasMember
 
 ## Label
 

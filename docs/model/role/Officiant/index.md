@@ -1,10 +1,8 @@
 ---
 title: "Officiant"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Officiant
 
 ## Label
 

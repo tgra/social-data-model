@@ -1,10 +1,8 @@
 ---
 title: "memberOf"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > memberOf
 
 ## Label
 

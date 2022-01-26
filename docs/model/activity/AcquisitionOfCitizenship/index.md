@@ -1,10 +1,8 @@
 ---
 title: "AcquisitionOfCitizenship"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > AcquisitionOfCitizenship
 
 ## Label
 

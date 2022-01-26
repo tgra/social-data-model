@@ -1,10 +1,8 @@
 ---
 title: "hasOfficeHolder"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > hasOfficeHolder
 
 ## Label
 

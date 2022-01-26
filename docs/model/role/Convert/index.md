@@ -1,10 +1,8 @@
 ---
 title: "Convert"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Convert
 
 ## Label
 

@@ -1,10 +1,8 @@
 ---
 title: "hasResident"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > hasResident
 
 ## Label
 

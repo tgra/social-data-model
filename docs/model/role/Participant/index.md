@@ -1,10 +1,8 @@
 ---
 title: "Participant"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Participant
 
 ## Label
 

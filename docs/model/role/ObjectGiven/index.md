@@ -1,10 +1,8 @@
 ---
 title: "ObjectGiven"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > ObjectGiven
 
 ## Label
 

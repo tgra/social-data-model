@@ -1,10 +1,8 @@
 ---
 title: "Translator"
-up_href: "/model/"
-up_label: Model
 ---
 
-[TOC]
+> [Model](../../) > Translator
 
 ## Label
 
