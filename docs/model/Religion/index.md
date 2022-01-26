@@ -2,7 +2,7 @@
 title: "Religion"
 ---
 
-> [Model](../../) > Religion
+> [Model](./../) > Religion
 
 ## Label
 

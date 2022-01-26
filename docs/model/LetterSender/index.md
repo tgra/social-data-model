@@ -2,7 +2,7 @@
 title: "LetterSender"
 ---
 
-> [Model](../../) > LetterSender
+> [Model](./../) > LetterSender
 
 ## Label
 

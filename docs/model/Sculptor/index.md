@@ -2,7 +2,7 @@
 title: "Sculptor"
 ---
 
-> [Model](../../) > Sculptor
+> [Model](./../) > Sculptor
 
 ## Label
 

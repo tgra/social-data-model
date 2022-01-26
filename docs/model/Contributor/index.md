@@ -2,7 +2,7 @@
 title: "Contributor"
 ---
 
-> [Model](../../) > Contributor
+> [Model](./../) > Contributor
 
 ## Label
 

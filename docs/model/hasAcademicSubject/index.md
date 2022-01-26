@@ -2,7 +2,7 @@
 title: "hasAcademicSubject"
 ---
 
-> [Model](../../) > hasAcademicSubject
+> [Model](./../) > hasAcademicSubject
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Contractee"
 ---
 
-> [Model](../../) > Contractee
+> [Model](./../) > Contractee
 
 ## Label
 

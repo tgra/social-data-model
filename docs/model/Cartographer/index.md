@@ -2,7 +2,7 @@
 title: "Cartographer"
 ---
 
-> [Model](../../) > Cartographer
+> [Model](./../) > Cartographer
 
 ## Label
 

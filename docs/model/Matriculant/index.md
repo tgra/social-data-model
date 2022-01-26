@@ -2,7 +2,7 @@
 title: "Matriculant"
 ---
 
-> [Model](../../) > Matriculant
+> [Model](./../) > Matriculant
 
 ## Label
 

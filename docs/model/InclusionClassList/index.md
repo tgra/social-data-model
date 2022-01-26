@@ -2,7 +2,7 @@
 title: "InclusionClassList"
 ---
 
-> [Model](../../) > InclusionClassList
+> [Model](./../) > InclusionClassList
 
 ## Label
 

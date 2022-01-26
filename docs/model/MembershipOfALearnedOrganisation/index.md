@@ -2,7 +2,7 @@
 title: "MembershipOfALearnedOrganisation"
 ---
 
-> [Model](../../) > MembershipOfALearnedOrganisation
+> [Model](./../) > MembershipOfALearnedOrganisation
 
 ## Label
 

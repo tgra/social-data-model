@@ -2,7 +2,7 @@
 title: "MembershipProfessionalBody"
 ---
 
-> [Model](../../) > MembershipProfessionalBody
+> [Model](./../) > MembershipProfessionalBody
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Owner"
 ---
 
-> [Model](../../) > Owner
+> [Model](./../) > Owner
 
 ## Label
 

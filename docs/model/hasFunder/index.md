@@ -2,7 +2,7 @@
 title: "hasFunder"
 ---
 
-> [Model](../../) > hasFunder
+> [Model](./../) > hasFunder
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "OrganizationalCollaboration"
 ---
 
-> [Model](../../) > OrganizationalCollaboration
+> [Model](./../) > OrganizationalCollaboration
 
 ## Label
 

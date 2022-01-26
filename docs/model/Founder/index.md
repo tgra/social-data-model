@@ -2,7 +2,7 @@
 title: "Founder"
 ---
 
-> [Model](../../) > Founder
+> [Model](./../) > Founder
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Relocator"
 ---
 
-> [Model](../../) > Relocator
+> [Model](./../) > Relocator
 
 ## Label
 

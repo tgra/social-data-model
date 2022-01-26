@@ -2,7 +2,7 @@
 title: "Document"
 ---
 
-> [Model](../../) > Document
+> [Model](./../) > Document
 
 ## Label
 

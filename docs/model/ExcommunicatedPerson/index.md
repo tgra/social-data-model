@@ -2,7 +2,7 @@
 title: "ExcommunicatedPerson"
 ---
 
-> [Model](../../) > ExcommunicatedPerson
+> [Model](./../) > ExcommunicatedPerson
 
 ## Label
 

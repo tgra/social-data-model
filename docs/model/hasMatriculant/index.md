@@ -2,7 +2,7 @@
 title: "hasMatriculant"
 ---
 
-> [Model](../../) > hasMatriculant
+> [Model](./../) > hasMatriculant
 
 ## Label
 

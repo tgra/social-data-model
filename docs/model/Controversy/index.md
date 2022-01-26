@@ -2,7 +2,7 @@
 title: "Controversy"
 ---
 
-> [Model](../../) > Controversy
+> [Model](./../) > Controversy
 
 ## Label
 

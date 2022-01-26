@@ -2,7 +2,7 @@
 title: "hasReligion"
 ---
 
-> [Model](../../) > hasReligion
+> [Model](./../) > hasReligion
 
 ## Label
 

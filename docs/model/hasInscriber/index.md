@@ -2,7 +2,7 @@
 title: "hasInscriber"
 ---
 
-> [Model](../../) > hasInscriber
+> [Model](./../) > hasInscriber
 
 ## Label
 

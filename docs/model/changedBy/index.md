@@ -2,7 +2,7 @@
 title: "changedBy"
 ---
 
-> [Model](../../) > changedBy
+> [Model](./../) > changedBy
 
 ## Label
 

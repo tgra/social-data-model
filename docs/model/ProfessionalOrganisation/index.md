@@ -2,7 +2,7 @@
 title: "ProfessionalOrganisation"
 ---
 
-> [Model](../../) > ProfessionalOrganisation
+> [Model](./../) > ProfessionalOrganisation
 
 ## Label
 

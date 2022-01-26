@@ -2,7 +2,7 @@
 title: "Classicist"
 ---
 
-> [Model](../../) > Classicist
+> [Model](./../) > Classicist
 
 ## Label
 

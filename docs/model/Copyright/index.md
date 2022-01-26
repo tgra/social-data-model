@@ -2,7 +2,7 @@
 title: "Copyright"
 ---
 
-> [Model](../../) > Copyright
+> [Model](./../) > Copyright
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "VisionaryPerson"
 ---
 
-> [Model](../../) > VisionaryPerson
+> [Model](./../) > VisionaryPerson
 
 ## Label
 

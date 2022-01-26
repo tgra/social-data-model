@@ -2,7 +2,7 @@
 title: "Diplomat"
 ---
 
-> [Model](../../) > Diplomat
+> [Model](./../) > Diplomat
 
 ## Label
 

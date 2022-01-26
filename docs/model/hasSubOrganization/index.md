@@ -2,7 +2,7 @@
 title: "hasSubOrganization"
 ---
 
-> [Model](../../) > hasSubOrganization
+> [Model](./../) > hasSubOrganization
 
 ## Label
 

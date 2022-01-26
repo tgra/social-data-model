@@ -2,7 +2,7 @@
 title: "Visitor"
 ---
 
-> [Model](../../) > Visitor
+> [Model](./../) > Visitor
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "buysFrom"
 ---
 
-> [Model](../../) > buysFrom
+> [Model](./../) > buysFrom
 
 ## Label
 

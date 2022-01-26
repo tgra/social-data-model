@@ -2,7 +2,7 @@
 title: "Illustrator"
 ---
 
-> [Model](../../) > Illustrator
+> [Model](./../) > Illustrator
 
 ## Label
 

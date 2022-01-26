@@ -2,7 +2,7 @@
 title: "SocialVisit"
 ---
 
-> [Model](../../) > SocialVisit
+> [Model](./../) > SocialVisit
 
 ## Label
 

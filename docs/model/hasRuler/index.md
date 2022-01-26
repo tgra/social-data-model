@@ -2,7 +2,7 @@
 title: "hasRuler"
 ---
 
-> [Model](../../) > hasRuler
+> [Model](./../) > hasRuler
 
 ## Label
 

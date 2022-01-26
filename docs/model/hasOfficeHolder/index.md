@@ -2,7 +2,7 @@
 title: "hasOfficeHolder"
 ---
 
-> [Model](../../) > hasOfficeHolder
+> [Model](./../) > hasOfficeHolder
 
 ## Label
 

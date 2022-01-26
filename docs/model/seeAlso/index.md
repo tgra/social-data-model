@@ -2,7 +2,7 @@
 title: "seeAlso"
 ---
 
-> [Model](../../) > seeAlso
+> [Model](./../) > seeAlso
 
 ## Label
 

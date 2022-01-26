@@ -2,7 +2,7 @@
 title: "Post"
 ---
 
-> [Model](../../) > Post
+> [Model](./../) > Post
 
 ## Label
 

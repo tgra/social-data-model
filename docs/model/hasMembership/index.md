@@ -2,7 +2,7 @@
 title: "hasMembership"
 ---
 
-> [Model](../../) > hasMembership
+> [Model](./../) > hasMembership
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "RightsAssignment"
 ---
 
-> [Model](../../) > RightsAssignment
+> [Model](./../) > RightsAssignment
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "residesWith"
 ---
 
-> [Model](../../) > residesWith
+> [Model](./../) > residesWith
 
 ## Label
 

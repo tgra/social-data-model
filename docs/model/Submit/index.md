@@ -2,7 +2,7 @@
 title: "Submit"
 ---
 
-> [Model](../../) > Submit
+> [Model](./../) > Submit
 
 ## Label
 

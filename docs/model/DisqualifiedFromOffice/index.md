@@ -2,7 +2,7 @@
 title: "disqualifiedFromOffice"
 ---
 
-> [Model](../../) > disqualifiedFromOffice
+> [Model](./../) > disqualifiedFromOffice
 
 ## Label
 

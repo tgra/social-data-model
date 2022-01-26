@@ -2,7 +2,7 @@
 title: "Architect"
 ---
 
-> [Model](../../) > Architect
+> [Model](./../) > Architect
 
 ## Label
 

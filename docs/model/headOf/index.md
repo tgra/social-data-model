@@ -2,7 +2,7 @@
 title: "headOf"
 ---
 
-> [Model](../../) > headOf
+> [Model](./../) > headOf
 
 ## Label
 

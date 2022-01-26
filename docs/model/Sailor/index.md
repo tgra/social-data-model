@@ -2,7 +2,7 @@
 title: "Sailor"
 ---
 
-> [Model](../../) > Sailor
+> [Model](./../) > Sailor
 
 ## Label
 

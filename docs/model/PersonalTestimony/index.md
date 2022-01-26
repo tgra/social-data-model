@@ -2,7 +2,7 @@
 title: "PersonalTestimony"
 ---
 
-> [Model](../../) > PersonalTestimony
+> [Model](./../) > PersonalTestimony
 
 ## Label
 

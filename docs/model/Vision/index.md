@@ -2,7 +2,7 @@
 title: "Vision"
 ---
 
-> [Model](../../) > Vision
+> [Model](./../) > Vision
 
 ## Label
 

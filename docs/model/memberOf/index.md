@@ -2,7 +2,7 @@
 title: "memberOf"
 ---
 
-> [Model](../../) > memberOf
+> [Model](./../) > memberOf
 
 ## Label
 

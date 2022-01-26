@@ -2,7 +2,7 @@
 title: "CoResident"
 ---
 
-> [Model](../../) > CoResident
+> [Model](./../) > CoResident
 
 ## Label
 

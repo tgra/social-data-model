@@ -2,7 +2,7 @@
 title: "Signatory"
 ---
 
-> [Model](../../) > Signatory
+> [Model](./../) > Signatory
 
 ## Label
 

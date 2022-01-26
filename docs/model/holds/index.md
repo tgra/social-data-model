@@ -2,7 +2,7 @@
 title: "holds"
 ---
 
-> [Model](../../) > holds
+> [Model](./../) > holds
 
 ## Label
 

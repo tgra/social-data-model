@@ -2,7 +2,7 @@
 title: "Replace"
 ---
 
-> [Model](../../) > Replace
+> [Model](./../) > Replace
 
 ## Label
 

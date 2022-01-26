@@ -2,7 +2,7 @@
 title: "Secretary"
 ---
 
-> [Model](../../) > Secretary
+> [Model](./../) > Secretary
 
 ## Label
 

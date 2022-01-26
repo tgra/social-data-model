@@ -2,7 +2,7 @@
 title: "hasTranslator"
 ---
 
-> [Model](../../) > hasTranslator
+> [Model](./../) > hasTranslator
 
 ## Label
 

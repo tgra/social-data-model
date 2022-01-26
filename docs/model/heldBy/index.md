@@ -2,7 +2,7 @@
 title: "heldBy"
 ---
 
-> [Model](../../) > heldBy
+> [Model](./../) > heldBy
 
 ## Label
 

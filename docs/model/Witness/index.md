@@ -2,7 +2,7 @@
 title: "Witness"
 ---
 
-> [Model](../../) > Witness
+> [Model](./../) > Witness
 
 ## Label
 

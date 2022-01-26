@@ -2,7 +2,7 @@
 title: "Supervisor"
 ---
 
-> [Model](../../) > Supervisor
+> [Model](./../) > Supervisor
 
 ## Label
 

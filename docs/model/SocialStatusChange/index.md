@@ -2,7 +2,7 @@
 title: "SocialStatusChange"
 ---
 
-> [Model](../../) > SocialStatusChange
+> [Model](./../) > SocialStatusChange
 
 ## Label
 

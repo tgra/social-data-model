@@ -2,7 +2,7 @@
 title: "resultedFrom"
 ---
 
-> [Model](../../) > resultedFrom
+> [Model](./../) > resultedFrom
 
 ## Label
 

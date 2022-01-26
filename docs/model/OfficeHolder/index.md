@@ -2,7 +2,7 @@
 title: "OfficeHolder"
 ---
 
-> [Model](../../) > OfficeHolder
+> [Model](./../) > OfficeHolder
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Habitation"
 ---
 
-> [Model](../../) > Habitation
+> [Model](./../) > Habitation
 
 ## Label
 

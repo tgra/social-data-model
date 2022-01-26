@@ -2,7 +2,7 @@
 title: "unitOf"
 ---
 
-> [Model](../../) > unitOf
+> [Model](./../) > unitOf
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Thesis"
 ---
 
-> [Model](../../) > Thesis
+> [Model](./../) > Thesis
 
 ## Label
 

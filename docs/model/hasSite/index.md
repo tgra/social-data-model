@@ -2,7 +2,7 @@
 title: "hasSite"
 ---
 
-> [Model](../../) > hasSite
+> [Model](./../) > hasSite
 
 ## Label
 

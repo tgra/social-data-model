@@ -2,7 +2,7 @@
 title: "sellerOf"
 ---
 
-> [Model](../../) > sellerOf
+> [Model](./../) > sellerOf
 
 ## Label
 

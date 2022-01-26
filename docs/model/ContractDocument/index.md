@@ -2,7 +2,7 @@
 title: "ContractDocument"
 ---
 
-> [Model](../../) > ContractDocument
+> [Model](./../) > ContractDocument
 
 ## Label
 

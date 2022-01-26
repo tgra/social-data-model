@@ -2,7 +2,7 @@
 title: "Displacement"
 ---
 
-> [Model](../../) > Displacement
+> [Model](./../) > Displacement
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "DeliverSpeech"
 ---
 
-> [Model](../../) > DeliverSpeech
+> [Model](./../) > DeliverSpeech
 
 ## Label
 

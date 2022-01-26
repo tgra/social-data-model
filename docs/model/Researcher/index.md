@@ -2,7 +2,7 @@
 title: "Researcher"
 ---
 
-> [Model](../../) > Researcher
+> [Model](./../) > Researcher
 
 ## Label
 

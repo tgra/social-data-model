@@ -2,7 +2,7 @@
 title: "Prisoner"
 ---
 
-> [Model](../../) > Prisoner
+> [Model](./../) > Prisoner
 
 ## Label
 

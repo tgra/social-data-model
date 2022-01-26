@@ -2,7 +2,7 @@
 title: "Office"
 ---
 
-> [Model](../../) > Office
+> [Model](./../) > Office
 
 ## Label
 

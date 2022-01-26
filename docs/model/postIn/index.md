@@ -2,7 +2,7 @@
 title: "postIn"
 ---
 
-> [Model](../../) > postIn
+> [Model](./../) > postIn
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "PoliticalActivity"
 ---
 
-> [Model](../../) > PoliticalActivity
+> [Model](./../) > PoliticalActivity
 
 ## Label
 

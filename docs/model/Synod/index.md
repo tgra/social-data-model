@@ -2,7 +2,7 @@
 title: "Synod"
 ---
 
-> [Model](../../) > Synod
+> [Model](./../) > Synod
 
 ## Label
 

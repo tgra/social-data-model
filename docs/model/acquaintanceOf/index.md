@@ -2,7 +2,7 @@
 title: "acquaintanceOf"
 ---
 
-> [Model](../../) > acquaintanceOf
+> [Model](./../) > acquaintanceOf
 
 ## Label
 

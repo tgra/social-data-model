@@ -2,7 +2,7 @@
 title: "Administrator"
 ---
 
-> [Model](../../) > Administrator
+> [Model](./../) > Administrator
 
 ## Label
 

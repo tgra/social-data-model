@@ -2,7 +2,7 @@
 title: "Godson"
 ---
 
-> [Model](../../) > Godson
+> [Model](./../) > Godson
 
 ## Label
 

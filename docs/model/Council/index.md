@@ -2,7 +2,7 @@
 title: "Council"
 ---
 
-> [Model](../../) > Council
+> [Model](./../) > Council
 
 ## Label
 

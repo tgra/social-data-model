@@ -2,7 +2,7 @@
 title: "FormalOrganization"
 ---
 
-> [Model](../../) > FormalOrganization
+> [Model](./../) > FormalOrganization
 
 ## Label
 

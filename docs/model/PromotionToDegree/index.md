@@ -2,7 +2,7 @@
 title: "PromotionToDegree"
 ---
 
-> [Model](../../) > PromotionToDegree
+> [Model](./../) > PromotionToDegree
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Excommunication"
 ---
 
-> [Model](../../) > Excommunication
+> [Model](./../) > Excommunication
 
 ## Label
 

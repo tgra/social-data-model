@@ -2,7 +2,7 @@
 title: "displacedFrom"
 ---
 
-> [Model](../../) > displacedFrom
+> [Model](./../) > displacedFrom
 
 ## Label
 

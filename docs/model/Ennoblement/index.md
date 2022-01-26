@@ -2,7 +2,7 @@
 title: "Ennoblement"
 ---
 
-> [Model](../../) > Ennoblement
+> [Model](./../) > Ennoblement
 
 ## Label
 

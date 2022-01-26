@@ -2,7 +2,7 @@
 title: "CreationOfWorkActivity"
 ---
 
-> [Model](../../) > CreationOfWorkActivity
+> [Model](./../) > CreationOfWorkActivity
 
 ## Label
 

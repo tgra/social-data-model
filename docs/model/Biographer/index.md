@@ -2,7 +2,7 @@
 title: "Biographer"
 ---
 
-> [Model](../../) > Biographer
+> [Model](./../) > Biographer
 
 ## Label
 

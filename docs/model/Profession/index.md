@@ -2,7 +2,7 @@
 title: "Profession"
 ---
 
-> [Model](../../) > Profession
+> [Model](./../) > Profession
 
 ## Label
 

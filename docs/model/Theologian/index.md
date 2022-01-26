@@ -2,7 +2,7 @@
 title: "Theologian"
 ---
 
-> [Model](../../) > Theologian
+> [Model](./../) > Theologian
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Historian"
 ---
 
-> [Model](../../) > Historian
+> [Model](./../) > Historian
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "LossOfSocialStatus"
 ---
 
-> [Model](../../) > LossOfSocialStatus
+> [Model](./../) > LossOfSocialStatus
 
 ## Label
 

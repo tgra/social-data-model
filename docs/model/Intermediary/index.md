@@ -2,7 +2,7 @@
 title: "Intermediary"
 ---
 
-> [Model](../../) > Intermediary
+> [Model](./../) > Intermediary
 
 ## Label
 

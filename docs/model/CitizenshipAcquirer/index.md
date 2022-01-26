@@ -2,7 +2,7 @@
 title: "CitizenshipAcquirer"
 ---
 
-> [Model](../../) > CitizenshipAcquirer
+> [Model](./../) > CitizenshipAcquirer
 
 ## Label
 

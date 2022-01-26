@@ -2,7 +2,7 @@
 title: "TeachingActivity"
 ---
 
-> [Model](../../) > TeachingActivity
+> [Model](./../) > TeachingActivity
 
 ## Label
 

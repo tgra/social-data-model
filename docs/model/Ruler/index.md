@@ -2,7 +2,7 @@
 title: "Ruler"
 ---
 
-> [Model](../../) > Ruler
+> [Model](./../) > Ruler
 
 ## Label
 

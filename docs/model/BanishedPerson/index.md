@@ -2,7 +2,7 @@
 title: "BanishedPerson"
 ---
 
-> [Model](../../) > BanishedPerson
+> [Model](./../) > BanishedPerson
 
 ## Label
 

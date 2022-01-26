@@ -2,7 +2,7 @@
 title: "hasClient"
 ---
 
-> [Model](../../) > hasClient
+> [Model](./../) > hasClient
 
 ## Label
 

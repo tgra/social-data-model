@@ -2,7 +2,7 @@
 title: "Meeting"
 ---
 
-> [Model](../../) > Meeting
+> [Model](./../) > Meeting
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "InstrumentMaker"
 ---
 
-> [Model](../../) > InstrumentMaker
+> [Model](./../) > InstrumentMaker
 
 ## Label
 

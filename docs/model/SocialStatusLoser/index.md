@@ -2,7 +2,7 @@
 title: "SocialStatusLoser"
 ---
 
-> [Model](../../) > SocialStatusLoser
+> [Model](./../) > SocialStatusLoser
 
 ## Label
 

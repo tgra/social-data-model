@@ -2,7 +2,7 @@
 title: "AcademicSubject"
 ---
 
-> [Model](../../) > AcademicSubject
+> [Model](./../) > AcademicSubject
 
 ## Label
 

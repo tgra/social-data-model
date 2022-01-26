@@ -2,7 +2,7 @@
 title: "ExchangeOccasionalVerse"
 ---
 
-> [Model](../../) > ExchangeOccasionalVerse
+> [Model](./../) > ExchangeOccasionalVerse
 
 ## Label
 

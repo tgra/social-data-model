@@ -2,7 +2,7 @@
 title: "Modify"
 ---
 
-> [Model](../../) > Modify
+> [Model](./../) > Modify
 
 ## Label
 

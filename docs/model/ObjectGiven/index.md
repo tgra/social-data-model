@@ -2,7 +2,7 @@
 title: "ObjectGiven"
 ---
 
-> [Model](../../) > ObjectGiven
+> [Model](./../) > ObjectGiven
 
 ## Label
 

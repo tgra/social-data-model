@@ -2,7 +2,7 @@
 title: "Artist"
 ---
 
-> [Model](../../) > Artist
+> [Model](./../) > Artist
 
 ## Label
 

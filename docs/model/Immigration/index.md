@@ -2,7 +2,7 @@
 title: "Immigration"
 ---
 
-> [Model](../../) > Immigration
+> [Model](./../) > Immigration
 
 ## Label
 

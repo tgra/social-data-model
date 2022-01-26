@@ -2,7 +2,7 @@
 title: "classification"
 ---
 
-> [Model](../../) > classification
+> [Model](./../) > classification
 
 ## Label
 

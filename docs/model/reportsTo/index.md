@@ -2,7 +2,7 @@
 title: "reportsTo"
 ---
 
-> [Model](../../) > reportsTo
+> [Model](./../) > reportsTo
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "LearnedActivity"
 ---
 
-> [Model](../../) > LearnedActivity
+> [Model](./../) > LearnedActivity
 
 ## Label
 

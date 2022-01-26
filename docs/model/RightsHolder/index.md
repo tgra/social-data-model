@@ -2,7 +2,7 @@
 title: "RightsHolder"
 ---
 
-> [Model](../../) > RightsHolder
+> [Model](./../) > RightsHolder
 
 ## Label
 

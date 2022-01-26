@@ -2,7 +2,7 @@
 title: "hasBuyer"
 ---
 
-> [Model](../../) > hasBuyer
+> [Model](./../) > hasBuyer
 
 ## Label
 

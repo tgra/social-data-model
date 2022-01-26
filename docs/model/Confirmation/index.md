@@ -2,7 +2,7 @@
 title: "Confirmation"
 ---
 
-> [Model](../../) > Confirmation
+> [Model](./../) > Confirmation
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "ConfirmationCandidate"
 ---
 
-> [Model](../../) > ConfirmationCandidate
+> [Model](./../) > ConfirmationCandidate
 
 ## Label
 

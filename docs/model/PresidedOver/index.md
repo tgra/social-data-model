@@ -2,7 +2,7 @@
 title: "PresidedOver"
 ---
 
-> [Model](../../) > PresidedOver
+> [Model](./../) > PresidedOver
 
 ## Label
 

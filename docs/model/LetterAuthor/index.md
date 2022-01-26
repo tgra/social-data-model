@@ -2,7 +2,7 @@
 title: "LetterAuthor"
 ---
 
-> [Model](../../) > LetterAuthor
+> [Model](./../) > LetterAuthor
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Salon"
 ---
 
-> [Model](../../) > Salon
+> [Model](./../) > Salon
 
 ## Label
 

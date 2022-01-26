@@ -2,7 +2,7 @@
 title: "translatorOf"
 ---
 
-> [Model](../../) > translatorOf
+> [Model](./../) > translatorOf
 
 ## Label
 

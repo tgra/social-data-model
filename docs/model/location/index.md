@@ -2,7 +2,7 @@
 title: "location"
 ---
 
-> [Model](../../) > location
+> [Model](./../) > location
 
 ## Label
 

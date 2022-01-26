@@ -2,7 +2,7 @@
 title: "DocumentPart"
 ---
 
-> [Model](../../) > DocumentPart
+> [Model](./../) > DocumentPart
 
 ## Label
 

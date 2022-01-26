@@ -2,7 +2,7 @@
 title: "Recipient"
 ---
 
-> [Model](../../) > Recipient
+> [Model](./../) > Recipient
 
 ## Label
 

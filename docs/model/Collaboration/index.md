@@ -2,7 +2,7 @@
 title: "Collaboration"
 ---
 
-> [Model](../../) > Collaboration
+> [Model](./../) > Collaboration
 
 ## Label
 

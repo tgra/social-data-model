@@ -2,7 +2,7 @@
 title: "Patron"
 ---
 
-> [Model](../../) > Patron
+> [Model](./../) > Patron
 
 ## Label
 

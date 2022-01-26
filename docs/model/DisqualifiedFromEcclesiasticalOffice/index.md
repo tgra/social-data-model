@@ -2,7 +2,7 @@
 title: "DisqualifiedFromEcclesiasticalOffice"
 ---
 
-> [Model](../../) > DisqualifiedFromEcclesiasticalOffice
+> [Model](./../) > DisqualifiedFromEcclesiasticalOffice
 
 ## Label
 

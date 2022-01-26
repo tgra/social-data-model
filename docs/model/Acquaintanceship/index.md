@@ -2,7 +2,7 @@
 title: "Acquaintanceship"
 ---
 
-> [Model](../../) > Acquaintanceship
+> [Model](./../) > Acquaintanceship
 
 ## Label
 

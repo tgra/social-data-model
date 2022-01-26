@@ -2,7 +2,7 @@
 title: "CreativeWork"
 ---
 
-> [Model](../../) > CreativeWork
+> [Model](./../) > CreativeWork
 
 ## Label
 

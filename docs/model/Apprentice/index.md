@@ -2,7 +2,7 @@
 title: "Apprentice"
 ---
 
-> [Model](../../) > Apprentice
+> [Model](./../) > Apprentice
 
 ## Label
 

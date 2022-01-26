@@ -2,7 +2,7 @@
 title: "Contribute"
 ---
 
-> [Model](../../) > Contribute
+> [Model](./../) > Contribute
 
 ## Label
 

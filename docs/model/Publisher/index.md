@@ -2,7 +2,7 @@
 title: "Publisher"
 ---
 
-> [Model](../../) > Publisher
+> [Model](./../) > Publisher
 
 ## Label
 

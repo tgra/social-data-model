@@ -2,7 +2,7 @@
 title: "Funder"
 ---
 
-> [Model](../../) > Funder
+> [Model](./../) > Funder
 
 ## Label
 

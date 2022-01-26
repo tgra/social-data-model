@@ -2,7 +2,7 @@
 title: "roleProperty"
 ---
 
-> [Model](../../) > roleProperty
+> [Model](./../) > roleProperty
 
 ## Label
 

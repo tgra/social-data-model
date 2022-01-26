@@ -2,7 +2,7 @@
 title: "Engraver"
 ---
 
-> [Model](../../) > Engraver
+> [Model](./../) > Engraver
 
 ## Label
 

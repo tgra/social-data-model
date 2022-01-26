@@ -2,7 +2,7 @@
 title: "Membership"
 ---
 
-> [Model](../../) > Membership
+> [Model](./../) > Membership
 
 ## Label
 

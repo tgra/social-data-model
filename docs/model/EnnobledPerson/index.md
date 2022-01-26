@@ -2,7 +2,7 @@
 title: "EnnobledPerson"
 ---
 
-> [Model](../../) > EnnobledPerson
+> [Model](./../) > EnnobledPerson
 
 ## Label
 

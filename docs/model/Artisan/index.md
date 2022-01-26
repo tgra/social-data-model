@@ -2,7 +2,7 @@
 title: "Artisan"
 ---
 
-> [Model](../../) > Artisan
+> [Model](./../) > Artisan
 
 ## Label
 

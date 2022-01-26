@@ -2,7 +2,7 @@
 title: "Correspondent"
 ---
 
-> [Model](../../) > Correspondent
+> [Model](./../) > Correspondent
 
 ## Label
 

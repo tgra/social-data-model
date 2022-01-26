@@ -2,7 +2,7 @@
 title: "Accept"
 ---
 
-> [Model](../../) > Accept
+> [Model](./../) > Accept
 
 ## Label
 

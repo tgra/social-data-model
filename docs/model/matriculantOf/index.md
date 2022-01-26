@@ -2,7 +2,7 @@
 title: "matriculantOf"
 ---
 
-> [Model](../../) > matriculantOf
+> [Model](./../) > matriculantOf
 
 ## Label
 

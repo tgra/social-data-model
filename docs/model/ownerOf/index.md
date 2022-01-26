@@ -2,7 +2,7 @@
 title: "ownerOf"
 ---
 
-> [Model](../../) > ownerOf
+> [Model](./../) > ownerOf
 
 ## Label
 

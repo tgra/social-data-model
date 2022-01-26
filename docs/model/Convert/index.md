@@ -2,7 +2,7 @@
 title: "Convert"
 ---
 
-> [Model](../../) > Convert
+> [Model](./../) > Convert
 
 ## Label
 

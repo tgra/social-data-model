@@ -2,7 +2,7 @@
 title: "LossOfTitle"
 ---
 
-> [Model](../../) > LossOfTitle
+> [Model](./../) > LossOfTitle
 
 ## Label
 

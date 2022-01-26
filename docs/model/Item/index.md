@@ -2,7 +2,7 @@
 title: "Item"
 ---
 
-> [Model](../../) > Item
+> [Model](./../) > Item
 
 ## Label
 

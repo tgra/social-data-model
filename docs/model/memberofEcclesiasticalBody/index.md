@@ -2,7 +2,7 @@
 title: "memberofEcclesiasticalBody"
 ---
 
-> [Model](../../) > memberofEcclesiasticalBody
+> [Model](./../) > memberofEcclesiasticalBody
 
 ## Label
 

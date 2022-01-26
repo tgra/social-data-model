@@ -2,7 +2,7 @@
 title: "hasUnit"
 ---
 
-> [Model](../../) > hasUnit
+> [Model](./../) > hasUnit
 
 ## Label
 

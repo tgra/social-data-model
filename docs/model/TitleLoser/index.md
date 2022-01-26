@@ -2,7 +2,7 @@
 title: "TitleLoser"
 ---
 
-> [Model](../../) > TitleLoser
+> [Model](./../) > TitleLoser
 
 ## Label
 

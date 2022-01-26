@@ -2,7 +2,7 @@
 title: "PoliticalEntityCity"
 ---
 
-> [Model](../../) > PoliticalEntityCity
+> [Model](./../) > PoliticalEntityCity
 
 ## Label
 

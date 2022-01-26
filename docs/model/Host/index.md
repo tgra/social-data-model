@@ -2,7 +2,7 @@
 title: "Host"
 ---
 
-> [Model](../../) > Host
+> [Model](./../) > Host
 
 ## Label
 

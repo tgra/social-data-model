@@ -2,7 +2,7 @@
 title: "Praeses"
 ---
 
-> [Model](../../) > Praeses
+> [Model](./../) > Praeses
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "resultingOrganization"
 ---
 
-> [Model](../../) > resultingOrganization
+> [Model](./../) > resultingOrganization
 
 ## Label
 

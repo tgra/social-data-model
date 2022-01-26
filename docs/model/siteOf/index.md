@@ -2,7 +2,7 @@
 title: "siteOf"
 ---
 
-> [Model](../../) > siteOf
+> [Model](./../) > siteOf
 
 ## Label
 

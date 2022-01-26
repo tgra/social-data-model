@@ -2,7 +2,7 @@
 title: "givesConfessionTo"
 ---
 
-> [Model](../../) > givesConfessionTo
+> [Model](./../) > givesConfessionTo
 
 ## Label
 

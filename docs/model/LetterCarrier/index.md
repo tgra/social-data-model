@@ -2,7 +2,7 @@
 title: "LetterCarrier"
 ---
 
-> [Model](../../) > LetterCarrier
+> [Model](./../) > LetterCarrier
 
 ## Label
 

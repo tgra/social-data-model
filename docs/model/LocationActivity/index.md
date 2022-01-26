@@ -2,7 +2,7 @@
 title: "LocationActivity"
 ---
 
-> [Model](../../) > LocationActivity
+> [Model](./../) > LocationActivity
 
 ## Label
 

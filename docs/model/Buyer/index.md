@@ -2,7 +2,7 @@
 title: "Buyer"
 ---
 
-> [Model](../../) > Buyer
+> [Model](./../) > Buyer
 
 ## Label
 

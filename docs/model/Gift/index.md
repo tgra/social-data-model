@@ -2,7 +2,7 @@
 title: "Gift"
 ---
 
-> [Model](../../) > Gift
+> [Model](./../) > Gift
 
 ## Label
 

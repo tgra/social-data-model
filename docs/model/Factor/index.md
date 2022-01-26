@@ -2,7 +2,7 @@
 title: "Factor"
 ---
 
-> [Model](../../) > Factor
+> [Model](./../) > Factor
 
 ## Label
 

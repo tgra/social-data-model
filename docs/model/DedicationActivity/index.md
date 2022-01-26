@@ -2,7 +2,7 @@
 title: "DedicationActivity"
 ---
 
-> [Model](../../) > DedicationActivity
+> [Model](./../) > DedicationActivity
 
 ## Label
 

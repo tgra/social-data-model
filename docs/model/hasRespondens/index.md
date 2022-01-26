@@ -2,7 +2,7 @@
 title: "hasRespondens"
 ---
 
-> [Model](../../) > hasRespondens
+> [Model](./../) > hasRespondens
 
 ## Label
 

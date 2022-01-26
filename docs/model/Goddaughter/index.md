@@ -2,7 +2,7 @@
 title: "Goddaughter"
 ---
 
-> [Model](../../) > Goddaughter
+> [Model](./../) > Goddaughter
 
 ## Label
 

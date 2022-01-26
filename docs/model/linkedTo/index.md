@@ -2,7 +2,7 @@
 title: "linkedTo"
 ---
 
-> [Model](../../) > linkedTo
+> [Model](./../) > linkedTo
 
 ## Label
 

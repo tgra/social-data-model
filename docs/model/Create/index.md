@@ -2,7 +2,7 @@
 title: "Create"
 ---
 
-> [Model](../../) > Create
+> [Model](./../) > Create
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Inscriber"
 ---
 
-> [Model](../../) > Inscriber
+> [Model](./../) > Inscriber
 
 ## Label
 

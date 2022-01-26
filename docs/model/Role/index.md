@@ -2,7 +2,7 @@
 title: "role"
 ---
 
-> [Model](../../) > role
+> [Model](./../) > role
 
 ## Label
 

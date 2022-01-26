@@ -2,7 +2,7 @@
 title: "Exile"
 ---
 
-> [Model](../../) > Exile
+> [Model](./../) > Exile
 
 ## Label
 

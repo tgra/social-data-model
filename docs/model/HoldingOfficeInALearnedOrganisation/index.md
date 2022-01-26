@@ -2,7 +2,7 @@
 title: "HoldingOfficeInALearnedOrganisation"
 ---
 
-> [Model](../../) > HoldingOfficeInALearnedOrganisation
+> [Model](./../) > HoldingOfficeInALearnedOrganisation
 
 ## Label
 

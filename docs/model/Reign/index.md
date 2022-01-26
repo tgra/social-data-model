@@ -2,7 +2,7 @@
 title: "Reign"
 ---
 
-> [Model](../../) > Reign
+> [Model](./../) > Reign
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Ambassador"
 ---
 
-> [Model](../../) > Ambassador
+> [Model](./../) > Ambassador
 
 ## Label
 

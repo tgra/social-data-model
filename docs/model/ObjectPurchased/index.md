@@ -2,7 +2,7 @@
 title: "ObjectPurchased"
 ---
 
-> [Model](../../) > ObjectPurchased
+> [Model](./../) > ObjectPurchased
 
 ## Label
 

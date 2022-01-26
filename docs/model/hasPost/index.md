@@ -2,7 +2,7 @@
 title: "hasPost"
 ---
 
-> [Model](../../) > hasPost
+> [Model](./../) > hasPost
 
 ## Label
 

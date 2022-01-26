@@ -2,7 +2,7 @@
 title: "ConRector"
 ---
 
-> [Model](../../) > ConRector
+> [Model](./../) > ConRector
 
 ## Label
 

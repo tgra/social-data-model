@@ -2,7 +2,7 @@
 title: "memberDuring"
 ---
 
-> [Model](../../) > memberDuring
+> [Model](./../) > memberDuring
 
 ## Label
 

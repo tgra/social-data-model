@@ -2,7 +2,7 @@
 title: "Testifier"
 ---
 
-> [Model](../../) > Testifier
+> [Model](./../) > Testifier
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "BaptismalCandidate"
 ---
 
-> [Model](../../) > BaptismalCandidate
+> [Model](./../) > BaptismalCandidate
 
 ## Label
 

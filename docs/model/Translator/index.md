@@ -2,7 +2,7 @@
 title: "Translator"
 ---
 
-> [Model](../../) > Translator
+> [Model](./../) > Translator
 
 ## Label
 

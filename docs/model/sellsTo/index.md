@@ -2,7 +2,7 @@
 title: "sellsTo"
 ---
 
-> [Model](../../) > sellsTo
+> [Model](./../) > sellsTo
 
 ## Label
 

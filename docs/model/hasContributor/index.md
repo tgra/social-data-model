@@ -2,7 +2,7 @@
 title: "hasContributor"
 ---
 
-> [Model](../../) > hasContributor
+> [Model](./../) > hasContributor
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "EducationalTheorist"
 ---
 
-> [Model](../../) > EducationalTheorist
+> [Model](./../) > EducationalTheorist
 
 ## Label
 

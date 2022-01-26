@@ -2,7 +2,7 @@
 title: "AcademicInstitution"
 ---
 
-> [Model](../../) > AcademicInstitution
+> [Model](./../) > AcademicInstitution
 
 ## Label
 

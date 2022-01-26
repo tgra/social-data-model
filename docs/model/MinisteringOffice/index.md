@@ -2,7 +2,7 @@
 title: "MinisteringOffice"
 ---
 
-> [Model](../../) > MinisteringOffice
+> [Model](./../) > MinisteringOffice
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "LossOfCitizenship"
 ---
 
-> [Model](../../) > LossOfCitizenship
+> [Model](./../) > LossOfCitizenship
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "EcclesiasticalOrganisation"
 ---
 
-> [Model](../../) > EcclesiasticalOrganisation
+> [Model](./../) > EcclesiasticalOrganisation
 
 ## Label
 

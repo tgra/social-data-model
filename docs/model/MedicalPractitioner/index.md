@@ -2,7 +2,7 @@
 title: "MedicalPractitioner"
 ---
 
-> [Model](../../) > MedicalPractitioner
+> [Model](./../) > MedicalPractitioner
 
 ## Label
 

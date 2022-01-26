@@ -2,7 +2,7 @@
 title: "identifier"
 ---
 
-> [Model](../../) > identifier
+> [Model](./../) > identifier
 
 ## Label
 

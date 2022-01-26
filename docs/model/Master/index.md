@@ -2,7 +2,7 @@
 title: "Master"
 ---
 
-> [Model](../../) > Master
+> [Model](./../) > Master
 
 ## Label
 

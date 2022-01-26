@@ -2,7 +2,7 @@
 title: "Inscription"
 ---
 
-> [Model](../../) > Inscription
+> [Model](./../) > Inscription
 
 ## Label
 

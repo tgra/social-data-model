@@ -2,7 +2,7 @@
 title: "Relocation"
 ---
 
-> [Model](../../) > Relocation
+> [Model](./../) > Relocation
 
 ## Label
 

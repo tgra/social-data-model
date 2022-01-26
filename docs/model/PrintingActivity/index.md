@@ -2,7 +2,7 @@
 title: "PrintingActivity"
 ---
 
-> [Model](../../) > PrintingActivity
+> [Model](./../) > PrintingActivity
 
 ## Label
 

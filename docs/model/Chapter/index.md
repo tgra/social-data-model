@@ -2,7 +2,7 @@
 title: "Chapter"
 ---
 
-> [Model](../../) > Chapter
+> [Model](./../) > Chapter
 
 ## Label
 

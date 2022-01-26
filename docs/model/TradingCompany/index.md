@@ -2,7 +2,7 @@
 title: "TradingCompany"
 ---
 
-> [Model](../../) > TradingCompany
+> [Model](./../) > TradingCompany
 
 ## Label
 

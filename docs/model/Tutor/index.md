@@ -2,7 +2,7 @@
 title: "Tutor"
 ---
 
-> [Model](../../) > Tutor
+> [Model](./../) > Tutor
 
 ## Label
 

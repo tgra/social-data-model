@@ -2,7 +2,7 @@
 title: "OrganizationalUnit"
 ---
 
-> [Model](../../) > OrganizationalUnit
+> [Model](./../) > OrganizationalUnit
 
 ## Label
 

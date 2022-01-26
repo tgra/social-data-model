@@ -2,7 +2,7 @@
 title: "immigrantTo"
 ---
 
-> [Model](../../) > immigrantTo
+> [Model](./../) > immigrantTo
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Antiquary"
 ---
 
-> [Model](../../) > Antiquary
+> [Model](./../) > Antiquary
 
 ## Label
 

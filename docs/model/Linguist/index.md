@@ -2,7 +2,7 @@
 title: "Linguist"
 ---
 
-> [Model](../../) > Linguist
+> [Model](./../) > Linguist
 
 ## Label
 

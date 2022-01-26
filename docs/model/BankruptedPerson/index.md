@@ -2,7 +2,7 @@
 title: "BankruptedPerson"
 ---
 
-> [Model](../../) > BankruptedPerson
+> [Model](./../) > BankruptedPerson
 
 ## Label
 

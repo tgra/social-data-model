@@ -2,7 +2,7 @@
 title: "Speaker"
 ---
 
-> [Model](../../) > Speaker
+> [Model](./../) > Speaker
 
 ## Label
 

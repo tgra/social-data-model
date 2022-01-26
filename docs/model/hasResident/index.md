@@ -2,7 +2,7 @@
 title: "hasResident"
 ---
 
-> [Model](../../) > hasResident
+> [Model](./../) > hasResident
 
 ## Label
 

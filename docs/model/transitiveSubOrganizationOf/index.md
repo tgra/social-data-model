@@ -2,7 +2,7 @@
 title: "transitiveSubOrganizationOf"
 ---
 
-> [Model](../../) > transitiveSubOrganizationOf
+> [Model](./../) > transitiveSubOrganizationOf
 
 ## Label
 

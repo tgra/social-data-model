@@ -2,7 +2,7 @@
 title: "PoliticalOrganisation"
 ---
 
-> [Model](../../) > PoliticalOrganisation
+> [Model](./../) > PoliticalOrganisation
 
 ## Label
 

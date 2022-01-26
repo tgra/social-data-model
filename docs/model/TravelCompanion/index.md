@@ -2,7 +2,7 @@
 title: "TravelCompanion"
 ---
 
-> [Model](../../) > TravelCompanion
+> [Model](./../) > TravelCompanion
 
 ## Label
 

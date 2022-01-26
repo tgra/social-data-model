@@ -2,7 +2,7 @@
 title: "hasTravelCompanion"
 ---
 
-> [Model](../../) > hasTravelCompanion
+> [Model](./../) > hasTravelCompanion
 
 ## Label
 

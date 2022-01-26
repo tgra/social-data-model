@@ -2,7 +2,7 @@
 title: "ChangeEvent"
 ---
 
-> [Model](../../) > ChangeEvent
+> [Model](./../) > ChangeEvent
 
 ## Label
 

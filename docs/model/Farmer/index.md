@@ -2,7 +2,7 @@
 title: "Farmer"
 ---
 
-> [Model](../../) > Farmer
+> [Model](./../) > Farmer
 
 ## Label
 

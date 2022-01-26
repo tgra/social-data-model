@@ -2,7 +2,7 @@
 title: "GovernmentOfficial"
 ---
 
-> [Model](../../) > GovernmentOfficial
+> [Model](./../) > GovernmentOfficial
 
 ## Label
 

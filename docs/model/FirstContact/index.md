@@ -2,7 +2,7 @@
 title: "FirstContact"
 ---
 
-> [Model](../../) > FirstContact
+> [Model](./../) > FirstContact
 
 ## Label
 

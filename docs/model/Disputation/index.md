@@ -2,7 +2,7 @@
 title: "Disputation"
 ---
 
-> [Model](../../) > Disputation
+> [Model](./../) > Disputation
 
 ## Label
 

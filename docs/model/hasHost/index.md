@@ -2,7 +2,7 @@
 title: "hasHost"
 ---
 
-> [Model](../../) > hasHost
+> [Model](./../) > hasHost
 
 ## Label
 

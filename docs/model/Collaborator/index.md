@@ -2,7 +2,7 @@
 title: "Collaborator"
 ---
 
-> [Model](../../) > Collaborator
+> [Model](./../) > Collaborator
 
 ## Label
 

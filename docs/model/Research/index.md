@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-> [Model](../../) > Research
+> [Model](./../) > Research
 
 ## Label
 

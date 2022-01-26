@@ -2,7 +2,7 @@
 title: "Editor"
 ---
 
-> [Model](../../) > Editor
+> [Model](./../) > Editor
 
 ## Label
 

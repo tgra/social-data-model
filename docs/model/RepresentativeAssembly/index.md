@@ -2,7 +2,7 @@
 title: "RepresentativeAssembly"
 ---
 
-> [Model](../../) > RepresentativeAssembly
+> [Model](./../) > RepresentativeAssembly
 
 ## Label
 

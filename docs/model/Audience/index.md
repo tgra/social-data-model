@@ -2,7 +2,7 @@
 title: "Audience"
 ---
 
-> [Model](../../) > Audience
+> [Model](./../) > Audience
 
 ## Label
 

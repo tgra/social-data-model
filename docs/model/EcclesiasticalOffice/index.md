@@ -2,7 +2,7 @@
 title: "EcclesiasticalOffice"
 ---
 
-> [Model](../../) > EcclesiasticalOffice
+> [Model](./../) > EcclesiasticalOffice
 
 ## Label
 

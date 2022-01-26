@@ -2,7 +2,7 @@
 title: "DeliverSermon"
 ---
 
-> [Model](../../) > DeliverSermon
+> [Model](./../) > DeliverSermon
 
 ## Label
 

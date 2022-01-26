@@ -2,7 +2,7 @@
 title: "SocialContactActivity"
 ---
 
-> [Model](../../) > SocialContactActivity
+> [Model](./../) > SocialContactActivity
 
 ## Label
 

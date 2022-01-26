@@ -2,7 +2,7 @@
 title: "Archivist"
 ---
 
-> [Model](../../) > Archivist
+> [Model](./../) > Archivist
 
 ## Label
 

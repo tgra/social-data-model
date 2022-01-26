@@ -2,7 +2,7 @@
 title: "hasAttendee"
 ---
 
-> [Model](../../) > hasAttendee
+> [Model](./../) > hasAttendee
 
 ## Label
 

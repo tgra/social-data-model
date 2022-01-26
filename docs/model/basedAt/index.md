@@ -2,7 +2,7 @@
 title: "basedAt"
 ---
 
-> [Model](../../) > basedAt
+> [Model](./../) > basedAt
 
 ## Label
 

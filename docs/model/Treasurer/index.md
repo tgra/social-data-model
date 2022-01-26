@@ -2,7 +2,7 @@
 title: "Treasurer"
 ---
 
-> [Model](../../) > Treasurer
+> [Model](./../) > Treasurer
 
 ## Label
 

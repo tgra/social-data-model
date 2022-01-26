@@ -2,7 +2,7 @@
 title: "Employer"
 ---
 
-> [Model](../../) > Employer
+> [Model](./../) > Employer
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "HoldPoliticalOffice"
 ---
 
-> [Model](../../) > HoldPoliticalOffice
+> [Model](./../) > HoldPoliticalOffice
 
 ## Label
 

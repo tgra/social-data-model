@@ -2,7 +2,7 @@
 title: "Logician"
 ---
 
-> [Model](../../) > Logician
+> [Model](./../) > Logician
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Inventor"
 ---
 
-> [Model](../../) > Inventor
+> [Model](./../) > Inventor
 
 ## Label
 

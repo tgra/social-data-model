@@ -2,7 +2,7 @@
 title: "Officiant"
 ---
 
-> [Model](../../) > Officiant
+> [Model](./../) > Officiant
 
 ## Label
 

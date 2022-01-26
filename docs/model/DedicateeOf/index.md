@@ -2,7 +2,7 @@
 title: "DedicateeOf"
 ---
 
-> [Model](../../) > DedicateeOf
+> [Model](./../) > DedicateeOf
 
 ## Label
 

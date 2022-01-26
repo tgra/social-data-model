@@ -2,7 +2,7 @@
 title: "siteAddress"
 ---
 
-> [Model](../../) > siteAddress
+> [Model](./../) > siteAddress
 
 ## Label
 

@@ -2,7 +2,7 @@
 title: "Publish"
 ---
 
-> [Model](../../) > Publish
+> [Model](./../) > Publish
 
 ## Label
 

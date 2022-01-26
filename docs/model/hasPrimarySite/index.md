@@ -2,7 +2,7 @@
 title: "hasPrimarySite"
 ---
 
-> [Model](../../) > hasPrimarySite
+> [Model](./../) > hasPrimarySite
 
 ## Label
 

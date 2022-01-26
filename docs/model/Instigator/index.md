@@ -2,7 +2,7 @@
 title: "Instigator"
 ---
 
-> [Model](../../) > Instigator
+> [Model](./../) > Instigator
 
 ## Label
 

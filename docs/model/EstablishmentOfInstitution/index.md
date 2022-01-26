@@ -2,7 +2,7 @@
 title: "EstablishmentOfInstitution"
 ---
 
-> [Model](../../) > EstablishmentOfInstitution
+> [Model](./../) > EstablishmentOfInstitution
 
 ## Label
 

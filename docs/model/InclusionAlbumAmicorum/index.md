@@ -2,7 +2,7 @@
 title: "InclusionAlbumAmicorum"
 ---
 
-> [Model](../../) > InclusionAlbumAmicorum
+> [Model](./../) > InclusionAlbumAmicorum
 
 ## Label
 

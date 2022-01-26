@@ -2,7 +2,7 @@
 title: "Assistant"
 ---
 
-> [Model](../../) > Assistant
+> [Model](./../) > Assistant
 
 ## Label
 

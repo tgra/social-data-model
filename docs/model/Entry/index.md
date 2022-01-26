@@ -2,7 +2,7 @@
 title: "Entry"
 ---
 
-> [Model](../../) > Entry
+> [Model](./../) > Entry
 
 ## Label
 

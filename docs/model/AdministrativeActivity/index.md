@@ -2,7 +2,7 @@
 title: "AdministrativeActivity"
 ---
 
-> [Model](../../) > AdministrativeActivity
+> [Model](./../) > AdministrativeActivity
 
 ## Label
 

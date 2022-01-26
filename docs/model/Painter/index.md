@@ -2,7 +2,7 @@
 title: "Painter"
 ---
 
-> [Model](../../) > Painter
+> [Model](./../) > Painter
 
 ## Label
 

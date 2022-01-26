@@ -2,7 +2,7 @@
 title: "LearnedOrganisation"
 ---
 
-> [Model](../../) > LearnedOrganisation
+> [Model](./../) > LearnedOrganisation
 
 ## Label
 

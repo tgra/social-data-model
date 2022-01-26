@@ -2,7 +2,7 @@
 title: "Printer"
 ---
 
-> [Model](../../) > Printer
+> [Model](./../) > Printer
 
 ## Label
 

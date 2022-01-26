@@ -2,7 +2,7 @@
 title: "hasGodparent"
 ---
 
-> [Model](../../) > hasGodparent
+> [Model](./../) > hasGodparent
 
 ## Label
 

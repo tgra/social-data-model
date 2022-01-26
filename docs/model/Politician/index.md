@@ -2,7 +2,7 @@
 title: "Politician"
 ---
 
-> [Model](../../) > Politician
+> [Model](./../) > Politician
 
 ## Label
 

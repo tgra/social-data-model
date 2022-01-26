@@ -2,7 +2,7 @@
 title: "SocialContact"
 ---
 
-> [Model](../../) > SocialContact
+> [Model](./../) > SocialContact
 
 ## Label
 

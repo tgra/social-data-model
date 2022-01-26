@@ -2,7 +2,7 @@
 title: "Letter"
 ---
 
-> [Model](../../) > Letter
+> [Model](./../) > Letter
 
 ## Label
 

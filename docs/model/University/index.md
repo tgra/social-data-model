@@ -2,7 +2,7 @@
 title: "University"
 ---
 
-> [Model](../../) > University
+> [Model](./../) > University
 
 ## Label
 

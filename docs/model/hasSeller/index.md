@@ -2,7 +2,7 @@
 title: "hasSeller"
 ---
 
-> [Model](../../) > hasSeller
+> [Model](./../) > hasSeller
 
 ## Label
 
